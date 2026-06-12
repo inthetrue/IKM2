@@ -1,0 +1,1 @@
+aaaabbaaacccaaa -> a4b2a3c3a3 -> (остается без изменений)
